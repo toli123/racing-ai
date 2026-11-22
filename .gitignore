@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+screenshots/
+parking_save.json
+runs/live_*/

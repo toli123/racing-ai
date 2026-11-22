@@ -1,0 +1,25 @@
+{
+  "ga": {
+    "population": 60,
+    "elites": 3,
+    "selection": "tournament",
+    "tournament_size": 3,
+    "crossover": "one_point",
+    "crossover_rate": 0.7,
+    "mutation_rate": 0.1,
+    "mutation_sigma": 0.3
+  },
+  "layers": [
+    8,
+    8,
+    2
+  ],
+  "tracks": [
+    "oval",
+    "bean",
+    "esses"
+  ],
+  "both_directions": true,
+  "crash_penalty": 0.0,
+  "seed": 0
+}
